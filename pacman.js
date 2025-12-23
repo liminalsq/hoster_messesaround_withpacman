@@ -1,5 +1,4 @@
 google.pacman ||
-    // this script never updated
 function () {
     var a = true,
         e = false,
@@ -378,7 +377,7 @@ function () {
         {
             ghostSpeed: 0.75,
             ghostTunnelSpeed: 0.4,
-            playerSpeed: 3,
+            playerSpeed: 10,
             dotEatingSpeed: 3,
             ghostFrightSpeed: 0.5,
             playerFrightSpeed: 3.3,
@@ -398,7 +397,7 @@ function () {
         {
             ghostSpeed: 0.85,
             ghostTunnelSpeed: 0.45,
-            playerSpeed: 3,
+            playerSpeed: 10,
             dotEatingSpeed: 3,
             ghostFrightSpeed: 0.55,
             playerFrightSpeed: 3.3,
@@ -419,7 +418,7 @@ function () {
         {
             ghostSpeed: 0.85,
             ghostTunnelSpeed: 0.45,
-            playerSpeed: 3,
+            playerSpeed: 10,
             dotEatingSpeed: 3,
             ghostFrightSpeed: 0.55,
             playerFrightSpeed: 3.3,
@@ -439,7 +438,7 @@ function () {
         {
             ghostSpeed: 0.85,
             ghostTunnelSpeed: 0.45,
-            playerSpeed: 3,
+            playerSpeed: 10,
             dotEatingSpeed: 3,
             ghostFrightSpeed: 0.55,
             playerFrightSpeed: 3.3,
@@ -459,7 +458,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 4,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 4,
@@ -480,7 +479,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -500,7 +499,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -520,7 +519,7 @@ function () {
         {
             ghostSpeed: 0.5,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -540,7 +539,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -561,7 +560,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -581,7 +580,7 @@ function () {
         {
              ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -601,7 +600,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -621,7 +620,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -642,7 +641,7 @@ function () {
         {
            ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -662,7 +661,7 @@ function () {
         {
            ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -682,7 +681,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -702,7 +701,7 @@ function () {
         {
           ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -723,7 +722,7 @@ function () {
         {
            ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -743,7 +742,7 @@ function () {
         {
           ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -763,7 +762,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -783,7 +782,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,
+            playerSpeed: 10,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
