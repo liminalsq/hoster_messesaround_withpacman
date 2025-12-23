@@ -1,4 +1,5 @@
 google.pacman ||
+    // this script never updated
 function () {
     var a = true,
         e = false,
