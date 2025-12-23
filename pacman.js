@@ -459,7 +459,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 4,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 4,
@@ -500,7 +500,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -520,7 +520,7 @@ function () {
         {
             ghostSpeed: 0.5,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -540,7 +540,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -561,7 +561,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -581,7 +581,7 @@ function () {
         {
              ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -601,7 +601,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -621,7 +621,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -642,7 +642,7 @@ function () {
         {
            ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -662,7 +662,7 @@ function () {
         {
            ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -682,7 +682,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -702,7 +702,7 @@ function () {
         {
           ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -723,7 +723,7 @@ function () {
         {
            ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -743,7 +743,7 @@ function () {
         {
           ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -763,7 +763,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
@@ -783,7 +783,7 @@ function () {
         {
             ghostSpeed: 0.95,
             ghostTunnelSpeed: 0.5,
-            playerSpeed: 5,,
+            playerSpeed: 5,
             dotEatingSpeed: 5,
             ghostFrightSpeed: 0.6,
             playerFrightSpeed: 5,
